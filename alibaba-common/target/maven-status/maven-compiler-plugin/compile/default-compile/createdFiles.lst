@@ -1,0 +1,5 @@
+entity\PageResult.class
+entity\Page.class
+entity\IdWorker.class
+entity\StatusCode.class
+entity\Result.class
